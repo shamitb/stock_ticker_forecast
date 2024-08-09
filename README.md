@@ -1,8 +1,8 @@
 Stock price prediction for a single stock ticker symbol NVDA here.
 
-1. python nvidia_nyse.ipynb
+1. You can run the nvidia_nyse.ipynb
 
-2. To run the app and provide any ticker symbol:
+2. Alternately to run the Streamlit app and provide any ticker symbol:
 streamlit run forecast_stock_app.py
 
 
