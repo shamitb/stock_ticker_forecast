@@ -1,4 +1,4 @@
-Stock price prediction for a single stock ticker symbol NVDA here.
+Stock price prediction for a specified stock ticker symbol (Eg: NVDA) here.
 
 1. You can run the nvidia_nyse.ipynb
 
